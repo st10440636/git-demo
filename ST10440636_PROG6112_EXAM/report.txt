@@ -1,0 +1,6 @@
+Movie: Napolean
+Ticket Price: R8.0
+Number of Tickets: 9
+Total Ticket Price (before VAT): R72.0
+VAT Amount (14%): R10.080000000000002
+Total Price (including VAT): R82.08
